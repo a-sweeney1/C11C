@@ -51,5 +51,7 @@ public class Cat {
 		// so it doesn't overlap the drawing
 		g2.drawString("Hi Jimmy", catX, catY+HEAD_DIMENSION+20);	
 		g2.drawString("Jimmy says hi back", catX, catY+HEAD_DIMENSION+50);
+		g2.drawString("Goodbye Jimmy", catX, catY+HEAD_DIMENSION+100);
+
 	}
 }
