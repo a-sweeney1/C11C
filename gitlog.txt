@@ -1,0 +1,53 @@
+commit 7275045088d1055f9702ce9bbc71c81238aaed23
+Author: Addison Sweeney <asweeney@mines.edu>
+Date:   Tue Feb 15 13:24:48 2022 -0700
+
+    Added goodbye message
+
+commit 1de6d804a9a45a0b8f855918506ca1d49400df51
+Author: James O'Hare <johare@mines.edu>
+Date:   Tue Feb 15 13:23:44 2022 -0700
+
+    added another custom message
+
+commit 8be51c8f51ddf271c71b583e897e97a4073449cf
+Author: Addison Sweeney <asweeney@mines.edu>
+Date:   Tue Feb 15 13:22:37 2022 -0700
+
+    Changed text on picture
+
+commit dbd81fa0af9b06e68a0642c53c581f24f5f8f0d6
+Author: James O'Hare <johare@mines.edu>
+Date:   Tue Feb 15 13:21:04 2022 -0700
+
+    opened his third eye
+
+commit d32b1f8412ee40b2e64b34f806cc1e5364041e84
+Author: Addison Sweeney <asweeney@mines.edu>
+Date:   Tue Feb 15 13:18:48 2022 -0700
+
+    Made head color to yellow
+
+commit 3f118d8967d1b8c42854bc9af22f8ba1c5fe61e3
+Author: James O'Hare <johare@mines.edu>
+Date:   Tue Feb 15 13:17:35 2022 -0700
+
+    Added SECOND mouth
+
+commit db560e88dbe7c7ddc4404019602da78529420a33
+Author: Addison Sweeney <asweeney@mines.edu>
+Date:   Tue Feb 15 13:16:00 2022 -0700
+
+    Changed cats mouth height
+
+commit 7d6f9deb25cb7f76dbedb574f999974d688bb6ea
+Author: James O'Hare <johare@mines.edu>
+Date:   Tue Feb 15 13:09:25 2022 -0700
+
+    Jimbo changed catz eyes to orange
+
+commit 6bbeb90d05b6763916e11f1339b9aa9696410932
+Author: Addison Sweeney <asweeney@mines.edu>
+Date:   Tue Feb 15 13:02:21 2022 -0700
+
+    Set up files
